@@ -7,7 +7,6 @@ The application is used to record the books read. The user records the books rea
 - Coil library
 
 # Screenshots
-![AddBook](https://github.com/veronika-kalaskova/EBC-VA1-readily-project/assets/79855797/afcdb29b-79b9-45d9-b528-de2f97e215f4)
-![MainScreen](https://github.com/veronika-kalaskova/EBC-VA1-readily-project/assets/79855797/4f534307-6928-40e2-8ada-9f2a44edc396)
-![Challenge](https://github.com/veronika-kalaskova/EBC-VA1-readily-project/assets/79855797/7f5ebad8-6fe0-4296-a971-2fb898c1cacb)
-
+![AddBook](https://github.com/veronika-kalaskova/EBC-VA1-readily-project/assets/79855797/c5a9e701-56e7-4e31-84fb-9aa391d0e77f)
+![MainScreen](https://github.com/veronika-kalaskova/EBC-VA1-readily-project/assets/79855797/552ab23b-7fa4-4ca5-b4be-055a58fe9de3)
+![Challenge](https://github.com/veronika-kalaskova/EBC-VA1-readily-project/assets/79855797/61d8732f-a51d-42b0-a809-8a7813a2a42d)
