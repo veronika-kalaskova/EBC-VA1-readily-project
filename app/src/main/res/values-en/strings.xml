@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Readily</string>
+    <string name="pick_a_date">Pick a date</string>
+    <string name="homeNavigation">Home</string>
+    <string name="statisticsNavigation">Statistics</string>
+    <string name="challengeNavigation">Challenge</string>
+    <string name="main_screen_header">List of read books</string>
+    <string name="genre">Genre</string>
+    <string name="read_date">Read date</string>
+    <string name="date_not_set">Date not set</string>
+    <string name="book_detail_title">Book detail</string>
+    <string name="delete_book">Delete book</string>
+    <string name="book_challenge_header">Reading challenge</string>
+    <string name="want_to_read">Want to read</string>
+    <string name="want_to_read_support_text">Select the number of books you want to read this year</string>
+    <string name="save_number">Save number</string>
+    <string name="read_in_year">Read in year</string>
+    <string name="total_books">Total read</string>
+    <string name="edit_number">Edit number</string>
+    <string name="form_error">All fields must be filled in</string>
+    <string name="add_book_header">Add book</string>
+    <string name="edit_book_header">Edit book</string>
+    <string name="one_star">1 star</string>
+    <string name="two_stars">2 stars</string>
+    <string name="three_stars">3 stars</string>
+    <string name="four_stars">4 stars</string>
+    <string name="five_stars">5 stars</string>
+    <string name="book_title">Book title</string>
+    <string name="author_title">Author title</string>
+    <string name="date">Date</string>
+    <string name="delete_date">Delete date</string>
+    <string name="number_of_stars">Number of stars</string>
+    <string name="save_book">Save book</string>
+    <string name="settings">App information</string>
+    <string name="version">App version</string>
+    <string name="statistics_header">Statistics</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_image">Add image</string>
+    <string name="empty_list">No books read</string>
+</resources>

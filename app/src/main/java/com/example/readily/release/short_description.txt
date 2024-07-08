@@ -1,0 +1,1 @@
+Aplikace slouží k evidenci přečtených knih. Uživatel si zaznamenává přečtené knihy, které budou v aplikaci uloženy. Při kliknutí na určitou knihu se mu zobrazí detail knihy, kde se kniha může upravit či smazat. Aplikace dále umožňuje zobrazení statistik a nastavení čtecí výzvy, aby uživatel mohl sledovat jeho cíl.
