@@ -1,6 +1,3 @@
-# Readily
-The application is used to record the books read. The user records the books read, which will be stored in the application. When you click on a certain book, the details of the book will be displayed, where the book can be edited or deleted. The application also allows you to set the target of books read.
-
 # Technologies learnt
 - MVVM architecture using Dependency Injection
 - Room Database framework for SQLite database date persistence
